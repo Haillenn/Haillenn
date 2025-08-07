@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Huy Bui Tuan and I'm a web developer</h2>
+<h2 align="left">Hi 👋! My name is Huy Bui Tuan and I'm a developer</h2>
 
 ###
 
